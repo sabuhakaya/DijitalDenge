@@ -8,6 +8,7 @@ import Dashboard from './pages/Dashboard'
 import DragDropGame from './games/DragDropGame'
 import ColoringGame from './games/ColoringGame'
 import AttentionGame from './games/AttentionGame'
+import MobileDemo from './pages/MobileDemo'
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
             <Route path="/cocuk/dikkat" element={<AttentionGame />} />
             <Route path="/ebeveyn" element={<ParentPanel />} />
             <Route path="/dashboard" element={<Dashboard />} />
+            <Route path="/mobil" element={<MobileDemo />} />
           </Routes>
         </main>
         <Footer />

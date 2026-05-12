@@ -11,6 +11,7 @@ export default function Navbar() {
     { to: '/cocuk', label: 'Çocuk Paneli' },
     { to: '/ebeveyn', label: 'Ebeveyn Paneli' },
     { to: '/dashboard', label: 'Risk Analizi' },
+    { to: '/mobil', label: 'Mobil Uygulama' },
   ]
 
   const isActive = (path) => location.pathname === path

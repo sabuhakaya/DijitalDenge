@@ -10,7 +10,7 @@ export default function Footer() {
               <div className="w-8 h-8 bg-gradient-to-br from-primary-400 to-primary-600 rounded-lg flex items-center justify-center">
                 <Shield className="w-5 h-5 text-white" />
               </div>
-              <span className="text-lg font-bold font-display text-white">Dijital Denge</span>
+              <span className="text-lg font-bold font-display text-white">NeuroTrack</span>
             </div>
             <p className="text-sm leading-relaxed">
               0–6 yaş arası çocukların sağlıklı dijital alışkanlıklar geliştirmesini destekleyen,
@@ -29,7 +29,7 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-semibold mb-4">İletişim</h3>
             <ul className="space-y-2 text-sm">
-              <li>info@dijitaldenge.com</li>
+              <li>info@neurotrack.com</li>
               <li>Destek Merkezi</li>
               <li>Gizlilik Politikası</li>
               <li>Kullanım Koşulları</li>
@@ -37,7 +37,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-10 pt-8 border-t border-gray-800 flex flex-col sm:flex-row justify-between items-center">
-          <p className="text-sm">© 2026 Dijital Denge. Tüm hakları saklıdır.</p>
+          <p className="text-sm">© 2026 NeuroTrack. Tüm hakları saklıdır.</p>
           <p className="text-sm flex items-center mt-2 sm:mt-0">
             <Heart className="w-4 h-4 text-red-400 mx-1" /> ile geliştirildi
           </p>

@@ -47,7 +47,7 @@ const appUsageData = [
   { name: 'YouTube Kids', value: 35, color: '#EF4444' },
   { name: 'Eğitici Oyunlar', value: 25, color: '#22C55E' },
   { name: 'Çizgi Film', value: 20, color: '#3B82F6' },
-  { name: 'Dijital Denge', value: 15, color: '#8B5CF6' },
+  { name: 'NeuroTrack', value: 15, color: '#8B5CF6' },
   { name: 'Diğer', value: 5, color: '#9CA3AF' },
 ]
 

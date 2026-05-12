@@ -26,7 +26,7 @@ export default function Home() {
               <h1 className="text-4xl lg:text-6xl font-black font-display text-gray-900 leading-tight mb-6">
                 Çocuğunuzun{' '}
                 <span className="bg-gradient-to-r from-primary-500 to-emerald-600 bg-clip-text text-transparent">
-                  Dijital Dengesi
+                  Gelişimi
                 </span>{' '}
                 Elinizde
               </h1>

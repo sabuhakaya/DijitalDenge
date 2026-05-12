@@ -26,7 +26,7 @@ export default function Navbar() {
                 <Shield className="w-6 h-6 text-white" />
               </div>
               <span className="text-xl font-bold font-display bg-gradient-to-r from-primary-600 to-primary-800 bg-clip-text text-transparent">
-                Dijital Denge
+                NeuroTrack
               </span>
             </Link>
           </div>

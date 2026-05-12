@@ -146,7 +146,7 @@ const SCREENS = [
         <p className="text-xs font-semibold text-gray-500 mb-2">Uygulama Dağılımı</p>
         <div className="space-y-2">
           {[
-            { name: 'Dijital Denge', time: '20 dk', pct: 44, color: 'bg-emerald-500' },
+            { name: 'NeuroTrack', time: '20 dk', pct: 44, color: 'bg-emerald-500' },
             { name: 'YouTube Kids', time: '15 dk', pct: 33, color: 'bg-red-500' },
             { name: 'Diğer', time: '10 dk', pct: 22, color: 'bg-gray-400' },
           ].map((app) => (
@@ -398,7 +398,7 @@ export default function MobileDemo() {
             📱 Mobil Uygulama Önizleme
           </div>
           <h1 className="text-3xl lg:text-5xl font-black font-display text-white mb-4">
-            Dijital Denge{' '}
+            NeuroTrack{' '}
             <span className="bg-gradient-to-r from-emerald-400 to-green-300 bg-clip-text text-transparent">
               Mobil
             </span>
